@@ -1,0 +1,8 @@
+type: drupal8
+docroot: web
+php_version: "7.4"
+webserver_type: nginx-fpm
+database:
+  type: mariadb
+  version: "10.3"
+nodejs_version: "16"
