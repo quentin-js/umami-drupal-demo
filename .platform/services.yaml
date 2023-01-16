@@ -9,3 +9,7 @@ db:
 
 cache:
     type: redis:6.0
+
+search:
+    type: opensearch:2
+    disk: 256
