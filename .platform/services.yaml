@@ -11,5 +11,5 @@ cache:
     type: redis:6.0
 
 searchopen:
-    type: opensearch:2
+    type: opensearch:1.2
     disk: 256
